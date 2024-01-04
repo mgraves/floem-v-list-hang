@@ -4,14 +4,17 @@
 
 #### This may be my error, if so, please let me know at `groupmg@gmail.com.`
 
-The code in this repo is stripped dow as far as I could get it to show a `virtual_lsit()` getting in am infinite loop, 
+The code in this repo is stripped down as far as I could get it to show a `virtual_lsit()` getting in am infinite loop, 
 and locking up the app. This seems to be a recent change, as the slightly more
 complex text app it came from was working fine with the same implementation a week ago.
 
 (OR, this was something I goofed up?!)
+
+
 ![screenshot](./img.png)
 
 This app depends on the current version of `floem` at https://github.com/lapce/floem` as of 3 Jan, 2024.
+This code has only been tested on MacOS at this point by me.
 
 To reproduce the lockup:
 
