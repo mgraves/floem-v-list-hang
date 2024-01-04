@@ -4,7 +4,7 @@
 
 #### This may be my error, if so, please let me know at `groupmg@gmail.com.`
 
-The code in this repo is stripped down as far as I could get it to show a `virtual_lsit()` getting in am infinite loop, 
+The code in this repo is stripped down as far as I could get it to show a `virtual_lsit()` getting into an infinite loop, 
 and locking up the app. This seems to be a recent change, as the slightly more
 complex text app it came from was working fine with the same implementation a week ago.
 
